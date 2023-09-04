@@ -1,4 +1,5 @@
-# Store
+# Play Station Store 
+## Tela interativa com cards de jogos, simulando a Play Station Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
